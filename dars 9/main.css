@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.title {
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 50px;
+    transition: 0.8s;
+    
+}
+
+.title:hover {
+    text-shadow: 2px 2px 3px goldenrod;
+    color: blue;
+    background-color: cadetblue;
+}
+
+.sozlar {
+    line-height: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2;
+    word-spacing: 18px;
+    margin-top: 20px;
+    transition: 1.5s;
+}
+
+.sozlar:hover {
+    background-color: coral;
+    color: cornsilk;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 16px;
+    
+}
+
+.card button {
+    width: 100%;
+    margin-top: 6px;
+    padding: 10px;
+    background-color: burlywood;
+    border: none;
+    cursor: pointer;
+}
+
+.card:hover {
+    text-shadow: 2px 2px 3px rgb(109, 132, 4);
+}
+
+.card {
+    width: 400px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 12px;
+    transition: 0.5s;
+   
+
+}
+.cardlar{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+body{
+    background-color: rgb(151, 186, 91);
+}

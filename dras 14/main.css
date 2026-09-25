@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+ .novbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 70px;
+    padding: 40px;
+background-color: black;
+color: cornsilk;
+}
+
+ .naw {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: center;
+
+}
+
+.naw-links {
+    display: flex;
+    gap: 20px;
+}
+
+.card1 {
+    border-radius: 12px;
+background-color: brown;
+width: 200px;
+height: 100px;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding-top: 50px;
+   
+
+}

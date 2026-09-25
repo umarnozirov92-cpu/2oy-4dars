@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 80px;
+    border-radius: 10px;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.links {
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 700px;
+    padding: 20px;
+}
+
+.links li {
+    display: inline-block;
+    
+    text-decoration: none;
+
+}
+
+header {
+    background-color: cornsilk;
+    padding: 20px;
+}
+
+.links a {
+    background-color: aquamarine;
+    color: darkslateblue;
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 12px;
+
+}
+
+.tarkib {
+    width: 750px;
+    height: 500px;
+}
+
+.forma {
+    border: 1px;
+    border-radius: 20px;
+
+}
+
+.sayt {
+    font-size: 20px;
+    display: inline-block;
+}
+.image{
+    width: 200px;
+
+}

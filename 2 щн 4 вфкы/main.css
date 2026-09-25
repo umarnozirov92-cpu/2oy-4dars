@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.card {
+    background-color: cadetblue;
+    width: 500px;
+    padding: 50px 70px;
+    border: 20px solid black;
+    border-radius: 15px;
+    margin: 40px 40px;
+}
+
+.card2 {
+    background-color: coral;
+    width: 650px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: 20px solid black;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.cards {
+    margin: 50px;
+    border: 1px;
+    border-radius: 12px;
+    padding: 16px;
+    display: inline-block;
+    background-color: #FFFFFF;
+
+
+}
+
+.image1 {
+    width: 256px;
+    height: 256px;
+}
+
+.title {
+    margin-top: 12px;
+    size: 16px;
+}
+
+.prince {
+    color: blue;
+    margin-top: 16px;
+}
+
+.info {
+    margin-top: 4px;
+}
+.h1{
+    margin-left: 24px;
+    font-size: 39px;
+}
+#section{
+    background-color: #C3C5D833;
+    margin-top: 100px;
+}

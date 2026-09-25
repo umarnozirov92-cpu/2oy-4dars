@@ -1,0 +1,170 @@
+.card1 {
+    width: 289px;
+
+    border-radius: 12px;
+    border: 1px;
+    background-color: #150F0E;
+}
+
+.image1 {
+    width: 287px;
+    height: 256px;
+}
+
+.card1 h2 {
+    color: #F7F2EF;
+}
+
+.card1 p {
+    color: #9A8F8B;
+}
+
+.card1 h1 {
+    color: #F7F2EF;
+}
+
+.card2 {
+    width: 289px;
+    border-radius: 12px;
+    border: 1px;
+    background-color: #150F0E;
+}
+
+.image2 {
+    width: 287px;
+    height: 256px;
+
+}
+
+.card2 h2 {
+    color: #F7F2EF;
+}
+
+.card2 p {
+    color: #9A8F8B;
+}
+
+.card2 h1 {
+    color: #F7F2EF;
+}
+
+.card3 {
+    width: 289px;
+    border-radius: 12px;
+    border: 1px;
+    background-color: #150F0E;
+
+}
+
+.image3 {
+    width: 287px;
+    height: 256px;
+
+}
+
+.card3 h2 {
+    color: #F7F2EF;
+}
+
+.card3 p {
+    color: #9A8F8B;
+}
+
+.card3 h1 {
+    color: #F7F2EF;
+}
+
+
+.card4 {
+    width: 289px;
+    border-radius: 12px;
+    border: 1px;
+    background-color: #150F0E;
+}
+
+.image4 {
+    width: 287px;
+    height: 256px;
+
+}
+
+.card4 h2 {
+    color: #F7F2EF;
+}
+
+.card4 p {
+    color: #9A8F8B;
+}
+
+.card4 h1 {
+    color: #F7F2EF;
+}
+
+.card5 {
+    width: 289px;
+    border-radius: 12px;
+    border: 1px;
+    background-color: #150F0E;
+}
+
+.image5 {
+    width: 287px;
+    height: 256px;
+
+}
+
+.card5 h2 {
+    color: #F7F2EF;
+}
+
+.card5 p {
+    color: #9A8F8B;
+}
+
+.card5 h1 {
+    color: #F7F2EF;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    gap: 20px;
+    justify-content: center;
+    align-items: start;
+}
+.red-card{
+    width: 287px;
+    height: 432px;
+    background: #F44336;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.red-card h2{
+    font-size: 54px;
+}
+
+.red-card p{
+    font-size: 24px;
+}
+
+.red-card button{
+    width: 180px;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+    background: white;
+    color: red;
+}
+.red-card{
+    width: 289px;
+    height: 432px;
+    background: #F44336;
+    border-radius: 20px;
+    padding: 30px;
+}
+.body{
+    background-color: black
+}
+
+

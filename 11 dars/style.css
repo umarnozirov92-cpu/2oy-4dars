@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.cards {
+    display: flex;
+    padding: 120px;
+    justify-content: space-between;
+    background-color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 150px;
+    width: 1280px;
+    height: 598px;
+}
+.card1 h1 {
+margin-top: 20px;
+}
+.card1 p{
+    margin-top: 25px;
+    line-height: 25px;
+}
+.card1 button{
+margin-top: 30px;
+padding: 14px 74px;
+background-color: chocolate;
+color: black;
+}
+
+   
+.cardd{
+    display: flex;
+    gap: 335px;
+}
+#sect{
+  margin-left: auto;
+  margin-right: auto;
+}
+.card2 img{
+margin-top: 30px;
+}

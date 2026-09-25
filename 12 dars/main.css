@@ -1,0 +1,30 @@
+.image {
+    background-image: url(/image.png);
+
+    background-repeat: no-repeat;
+background-size: cover;
+    height: 700px;
+    font-weight: 700px;
+}
+
+.image h1 {
+    color: darkblue;
+    font-size: 90px;
+    font-weight: 100px;
+
+}
+
+.card {
+    background-color: aqua;
+    width: 280px;
+    border-radius: 15px;
+    border: solid aqua;
+    display: inline-block;
+}
+
+.h2 {
+    font-size: 200px;
+    color: blue;
+    background-color: aqua;
+
+}

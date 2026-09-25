@@ -1,0 +1,24 @@
+.image{
+    width: 192px;
+    height: 192px;
+}
+.image1{
+width: 318px;
+height: 318px;
+border-radius: 40px;
+}
+.btn{
+    background-color: #0C4CE2;
+    color:#00D2FD;
+    width: 265px;
+    height: 60px;
+    border-radius: 12px;
+
+}
+.btn2{
+    background-color: #00D2FD;
+    width: 265px;
+    height: 60px;
+    border-radius: 12px;
+
+}

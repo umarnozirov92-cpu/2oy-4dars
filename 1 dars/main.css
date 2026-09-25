@@ -1,0 +1,53 @@
+.text {
+    color: blue;
+    background-color: black;
+}
+
+.text1 {
+
+    color: rgb(24, 8, 8);
+    background-color: aqua;
+}
+
+.text2 {
+    color: darkblue;
+    background-color: aquamarine;
+}
+
+image {
+    width: 400px;
+    height: 400px;
+    border: 18px solid rgb(21, 21, 231);
+    border-radius: 200px;
+    color: blue;
+}
+.image2{
+    color: azure;background-color: blue;
+    width: 400px;
+    height: 400px;
+    border: 18 solid blue;
+    border-radius: 200px;
+}
+.image2 {
+    width: 400px;
+    height: 400px;
+    border: 18px solid blue;
+    border-radius: 200px;
+    color: blue;
+
+}
+.card{
+    width: 349px;
+    border-radius: 16 px; 
+    background-color: #F2F4F6;
+
+}
+.card img{
+    width: 344px;
+    border-radius: 16px
+    ;
+}
+.image1{
+    width: 500px;
+    height: 500px;
+}

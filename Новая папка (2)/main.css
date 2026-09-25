@@ -1,0 +1,97 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    width:1200px;
+    margin:auto;
+}
+
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:30px 0;
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+nav a{
+    text-decoration:none;
+    color:black;
+    margin:0 20px;
+}
+
+.login a{
+    text-decoration:none;
+    color:black;
+    margin-right:20px;
+    font-weight:bold;
+}
+
+.login button{
+    width:130px;
+    height:45px;
+    border:1px solid red;
+    border-radius:30px;
+    background:white;
+    color:red;
+    cursor:pointer;
+}
+
+.cards{
+    text-align:center;
+    margin-top:60px;
+}
+
+.card{
+    width:330px;
+    height:700px;
+    border:2px solid #eee;
+    border-radius:10px;
+    display:inline-block;
+    margin:15px;
+    padding:40px 20px;
+    vertical-align:top;
+}
+
+.card img{
+    width:150px;
+}
+
+.card h2{
+    margin:30px 0;
+}
+
+.card p{
+    text-align:left;
+    margin:15px 0;
+}
+
+.card h1{
+    margin-top:90px;
+    margin-bottom:20px;
+}
+
+.card button{
+    width:170px;
+    height:45px;
+    border:2px solid red;
+    border-radius:30px;
+    background:white;
+    color:red;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.card button:hover{
+    background:red;
+    color:white;
+}
